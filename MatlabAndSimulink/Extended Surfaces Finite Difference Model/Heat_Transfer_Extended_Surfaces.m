@@ -1,3 +1,5 @@
+%Created by Roderick Landreth for a Heat Transfer Project, 2018
+
 N = 101; % Number of Nodes, assuing node 1 = 100 deg. C
 T1 = 100; %First node temperature
 Tinf = 22.72999604; %ambient temp
